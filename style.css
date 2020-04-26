@@ -1,0 +1,55 @@
+body {
+    font-family: 'Roboto Slab', arial;
+    background-color: #2117b1;
+}
+
+.buttons001 {
+    border: none;
+    background-color: #1d118f;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 16px 10px 16px;
+    font-size: 17px;
+    font-family: 'Roboto Slab', arial;
+    margin: 4px;
+}
+
+.buttons002 {
+    border: none;
+    background-color: #1d118f;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 16px 10px 16px;
+    font-size: 17px;
+    font-family: 'Roboto Slab', arial;
+    margin: 4px;
+}
+
+#text1 {
+    text-align: center;
+}
+
+#text2 {
+    text-align: center;
+}
+
+#green001 {
+    color: green;
+}
+
+#red001 {
+    color: red;
+}
+
+
+.container {
+    width: 800px;
+    max-width: 80%;
+    background-color: rgb(66, 141, 212);
+    border-radius: 50px;
+    padding: 100px;
+    box-shadow: 0 0 10px 2px;
+    margin: auto;
+}
+
+
